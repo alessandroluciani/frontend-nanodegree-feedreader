@@ -22,4 +22,6 @@ Run index.html inside your web browser.
 
     Handlebars JS: http://handlebarsjs.com/
 
-    Google Feed API: https://developers.google.com/feed/?hl=en
+    Feed API by Udacity: https://rsstojson.udacity.com/parseFeed
+
+    Deprecated: Google Feed API: https://developers.google.com/feed/?hl=en

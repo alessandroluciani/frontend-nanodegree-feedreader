@@ -131,7 +131,7 @@ $(function() {
          * by the loadFeed function that the content actually changes.
          * Remember, loadFeed() is asynchronous.
          */
-        it('content changes after load', function(done) {
+        it('contents change after load', function(done) {
             //We assert that the two contents have changed
             expect(dataLoading1).not.toBe(dataLoading2);
             done();
