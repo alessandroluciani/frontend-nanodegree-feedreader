@@ -1,4 +1,4 @@
-# Alessandro Luciani Project 6: Udacity Nanodegree Front-End
+# Project 6: Udacity Nanodegree Front-End
 ## Feed Reader Testing
 
 ### Live Version URL
